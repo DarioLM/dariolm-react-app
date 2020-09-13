@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-empathy-app/static/css/main.7c96d031.chunk.css",
+    "main.js": "/react-empathy-app/static/js/main.9fb82ce4.chunk.js",
+    "main.js.map": "/react-empathy-app/static/js/main.9fb82ce4.chunk.js.map",
+    "runtime-main.js": "/react-empathy-app/static/js/runtime-main.1cfec30a.js",
+    "runtime-main.js.map": "/react-empathy-app/static/js/runtime-main.1cfec30a.js.map",
+    "static/js/2.12337208.chunk.js": "/react-empathy-app/static/js/2.12337208.chunk.js",
+    "static/js/2.12337208.chunk.js.map": "/react-empathy-app/static/js/2.12337208.chunk.js.map",
+    "static/js/3.35dd76df.chunk.js": "/react-empathy-app/static/js/3.35dd76df.chunk.js",
+    "static/js/3.35dd76df.chunk.js.map": "/react-empathy-app/static/js/3.35dd76df.chunk.js.map",
+    "index.html": "/react-empathy-app/index.html",
+    "precache-manifest.cdf429f24d054866c961e9c15c0eb470.js": "/react-empathy-app/precache-manifest.cdf429f24d054866c961e9c15c0eb470.js",
+    "service-worker.js": "/react-empathy-app/service-worker.js",
+    "static/css/main.7c96d031.chunk.css.map": "/react-empathy-app/static/css/main.7c96d031.chunk.css.map",
+    "static/js/2.12337208.chunk.js.LICENSE.txt": "/react-empathy-app/static/js/2.12337208.chunk.js.LICENSE.txt",
+    "static/media/emphaty-logo.png": "/react-empathy-app/static/media/emphaty-logo.ae4ceedc.png",
+    "static/media/logo.svg": "/react-empathy-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cfec30a.js",
+    "static/js/2.12337208.chunk.js",
+    "static/css/main.7c96d031.chunk.css",
+    "static/js/main.9fb82ce4.chunk.js"
+  ]
+}
