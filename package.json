@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@dariolm/react-common-components-library": "0.0.3",
+    "@dariolm/react-common-components-library": "0.0.8",
     "@loadable/component": "^5.13.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
