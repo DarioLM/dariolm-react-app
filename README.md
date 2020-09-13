@@ -6,7 +6,7 @@ El objetivo es hacer uso de la librería [react-common-components-library](https
 
 Desplegado en este mismo repositorio en GitHub Pages: https://dariolm.github.io/react-empathy-app/
 
-Chunks cargados en carga de la página:
+Chunks cargados *onLoad* de la página:
 
   ![Chunks_Loaded_On_Load](./src/assets/chunks_from_library_on_load.jpg)
 
