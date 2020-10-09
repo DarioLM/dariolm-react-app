@@ -4,7 +4,7 @@ El objetivo es hacer uso de la librería [react-common-components-library](https
 
 ## LIVE VERSION
 
-Desplegado en este mismo repositorio en GitHub Pages: https://dariolm.github.io/react-empathy-app/
+Desplegado en este mismo repositorio en GitHub Pages: https://dariolm.github.io/dariolm-react-app/
 
 Chunks cargados *onLoad* de la página:
 
@@ -36,9 +36,6 @@ Se accede en [http://localhost:3000](http://localhost:3000).
 
 Toda la lógica princial se encuentra en el fichero **/components/HomePage.jsx** .
 Se hace uso de [loadable](https://reactrouter.com/web/guides/code-splitting) para la carga de componente a petición (en el momento de visualizarlo en pantalla).
-
-La librería dónde se han implementado los componentes para este caso de prueba se puede consultar en:
-[react-common-components-library](https://github.com/DarioLM/react-common-components-library)
 
 Se ha establecido el registry a **https://npm.pkg.github.com/dariolm** para instalar la librería alojada en GitHub.
 Las diferentes versiones de dicha librería se pueden consultar en [react-common-components-library](https://github.com/DarioLM/react-common-components-library/packages/395772)
