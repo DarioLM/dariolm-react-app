@@ -6,10 +6,6 @@ El objetivo es hacer uso de la librería [react-common-components-library](https
 
 Desplegado en este mismo repositorio en GitHub Pages: https://dariolm.github.io/dariolm-react-app/
 
-Chunks cargados *onLoad* de la página:
-
-  ![Chunks_Loaded_On_Load](./src/assets/chunks_from_library_on_load.jpg)
-
 ## StoryBook
 
 Los componentes usados de la libreria [react-common-components-library](https://github.com/DarioLM/react-common-components-library) se pueden consultar en el [Storybook](https://dariolm.github.io/react-common-components-library/)
